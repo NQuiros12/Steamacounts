@@ -1,0 +1,10 @@
+git add VesicularGlyco.Rmd 
+#Este el nombredel archivo
+git commit -m "comentario"
+
+git branch -M master
+
+git remote add
+
+ git push -u origin 
+
