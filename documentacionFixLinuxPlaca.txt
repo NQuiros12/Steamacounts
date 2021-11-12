@@ -1,0 +1,5 @@
+Hasta ahora he logrado dos cosas ambas parecen estar funcionando de momento. La primera es usar el programa xrandr.sh donde le decis 1600 900 60 y eso te da como 
+resultado que te cambie la resolución.
+Es tedioso y hay que hacerlo cada vez que inicias sesion, ademas no modifica la interfaz GRUB( donde seleccionas el sistema operativo) por tanto no es muy comodo.
+Hoy tratando de instalar algo que nada que ver (zinjai) me tope con el siguiente comando. "sudo pacman -S gtk2" esto instalo lo que entiendo es un paquete grafico. 
+Soluciono el problema de raiz ahora directamente usa el 1600x900 como el default cuando arranca.
